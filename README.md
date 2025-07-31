@@ -10,5 +10,5 @@ Incluye:
 - Simulación de portafolio
 - Comparación de parámetros y visualización de resultados
 
-Ideal para mostrar habilidades en análisis de datos financieros, visualización y optimización de estrategias.
+
 """
